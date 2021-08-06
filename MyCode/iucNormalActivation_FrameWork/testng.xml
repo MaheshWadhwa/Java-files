@@ -1,0 +1,9 @@
+
+
+<suite name="Test-method Suite" parallel="classes" thread-count="1" >
+  <test name="Test-method test">
+   <classes>
+   <class name="iucNormalActivation_FrameWork.IucMain"/>                  
+    </classes>
+  </test>
+</suite>
