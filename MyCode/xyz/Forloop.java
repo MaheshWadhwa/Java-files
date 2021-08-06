@@ -10,6 +10,8 @@ public class Forloop {
 			if((i!=7)&&(i!=4)){
 				
 			System.out.println(i);
+
+			//A new line 14 & comments added
 			}
 	}
 
