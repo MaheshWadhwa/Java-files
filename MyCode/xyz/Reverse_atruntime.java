@@ -9,6 +9,8 @@ public class Reverse_atruntime {
 	{
 		
 		String s;
+		System.out.println("Please provide the number to be reversed \n ");
+		
 		Scanner in = new Scanner(System.in);
 				
 				 s = in.nextLine();
