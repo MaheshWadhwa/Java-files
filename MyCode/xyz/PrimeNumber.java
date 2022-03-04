@@ -71,7 +71,7 @@ public class PrimeNumber {
 			
 		{
 	
-			System.out.println(n+ " is a prime number ");
+			System.out.println(n+ " is a prime number");
 		}
 		
 		/*if(i>n)  commented out section - it does not matter to us
