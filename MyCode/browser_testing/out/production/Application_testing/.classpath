@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="PostPaidREVAMP_CUC_DeviceWithInstallment/|browser_testing/src/|xyz/src/|Digital_eSales/" kind="src" path=""/>
+	<classpathentry kind="src" path="browser_testing/src"/>
+	<classpathentry kind="src" path="Digital_eSales"/>
+	<classpathentry kind="src" path="PostPaidREVAMP_CUC_DeviceWithInstallment"/>
+	<classpathentry kind="src" path="xyz/src"/>
+	<classpathentry kind="output" path="browser_testing/out/production/Application_testing"/>
+</classpath>
